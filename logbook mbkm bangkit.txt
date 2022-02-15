@@ -1,0 +1,8 @@
+14 jan
+Menghadiri Bangkit 2022 - Opening Session dan Bangkit 2022 - Technical Briefing Session
+
+Menyelesaikan progress belajar kelas matrikulasi "Pengenalan ke Logika Pemrograman (Programming Logic 101)"
+Melanjutkan progress belajar kelas matrikulasi "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software" berupa menyelesaikan modul "Mengerti Konsep Dasar Pemograman"
+Melanjutkan progress belajar kelas matrikulasi "Belajar Dasar Git dengan GitHub" berupa menyelesaikan modul "Studi Kasus Pengalaman Belajar"
+Mempelajari self-paced kelas wajib "Memulai Pemograman dengan Python" dari awal hingga modul "Input/Output dan Operasi Pada Python"
+
